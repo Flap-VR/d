@@ -1,0 +1,101 @@
+# Prices are per ONE item. Items not listed here can't be sold.
+# Use exact Bukkit material names (e.g. DIAMOND, OAK_LOG).
+# Only plain items sell - renamed, enchanted or otherwise modified items are returned to you.
+
+currency-symbol: "$"
+
+messages:
+  sold: "&7System &r>> &aYou sold your items for &2{amount}&a!"
+  nothing: "&7System &r>> &cThere is nothing to sell!"
+  no-economy: "&7System &r>> &cNo economy found. Install Vault + an economy plugin."
+
+prices:
+  # Ores & minerals
+  COAL: 5
+  CHARCOAL: 4
+  RAW_IRON: 15
+  IRON_INGOT: 20
+  RAW_GOLD: 22
+  GOLD_INGOT: 30
+  RAW_COPPER: 5
+  COPPER_INGOT: 8
+  REDSTONE: 3
+  LAPIS_LAZULI: 5
+  QUARTZ: 4
+  AMETHYST_SHARD: 6
+  DIAMOND: 200
+  EMERALD: 100
+  NETHERITE_SCRAP: 700
+  NETHERITE_INGOT: 3000
+  ANCIENT_DEBRIS: 1500
+  COAL_BLOCK: 45
+  IRON_BLOCK: 180
+  GOLD_BLOCK: 270
+  COPPER_BLOCK: 72
+  REDSTONE_BLOCK: 27
+  LAPIS_BLOCK: 45
+  DIAMOND_BLOCK: 1800
+  EMERALD_BLOCK: 900
+  NETHERITE_BLOCK: 27000
+  # Blocks
+  COBBLESTONE: 0.5
+  STONE: 1
+  DEEPSLATE: 0.8
+  COBBLED_DEEPSLATE: 0.5
+  DIRT: 0.2
+  SAND: 1
+  GRAVEL: 1
+  NETHERRACK: 0.2
+  END_STONE: 2
+  OBSIDIAN: 15
+  GLOWSTONE: 12
+  GLOWSTONE_DUST: 3
+  PRISMARINE_SHARD: 6
+  PRISMARINE_CRYSTALS: 6
+  OAK_LOG: 3
+  SPRUCE_LOG: 3
+  BIRCH_LOG: 3
+  JUNGLE_LOG: 3
+  ACACIA_LOG: 3
+  DARK_OAK_LOG: 3
+  CHERRY_LOG: 3
+  MANGROVE_LOG: 3
+  # Farming
+  WHEAT: 3
+  CARROT: 3
+  POTATO: 3
+  BEETROOT: 3
+  MELON_SLICE: 1
+  PUMPKIN: 5
+  SUGAR_CANE: 2
+  CACTUS: 2
+  NETHER_WART: 4
+  KELP: 1
+  BAMBOO: 1
+  SWEET_BERRIES: 2
+  COCOA_BEANS: 3
+  HAY_BLOCK: 27
+  # Mob drops
+  BONE: 3
+  ROTTEN_FLESH: 1
+  STRING: 3
+  GUNPOWDER: 8
+  SPIDER_EYE: 4
+  ENDER_PEARL: 30
+  BLAZE_ROD: 25
+  GHAST_TEAR: 50
+  SLIME_BALL: 8
+  LEATHER: 4
+  FEATHER: 2
+  ARROW: 1
+  BEEF: 3
+  PORKCHOP: 3
+  CHICKEN: 3
+  MUTTON: 3
+  COD: 3
+  SALMON: 3
+  INK_SAC: 3
+  PHANTOM_MEMBRANE: 20
+  SHULKER_SHELL: 500
+  NETHER_STAR: 5000
+  WITHER_SKELETON_SKULL: 2500
